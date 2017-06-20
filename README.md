@@ -1,4 +1,4 @@
-## sandbox-go
+## sandbox-csharp
 
 A docker container based on debian for running  c# for running exercises in sandbox.
 
