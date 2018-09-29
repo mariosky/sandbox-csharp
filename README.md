@@ -13,4 +13,4 @@ Build
 `docker build -t mariosky/sandbox-csharp sandbox-csharp/`
 
 Run Interactively
-`docker run -t -i mariosky/sandbox-csharp /bin/sh`
+`docker run -t -i mariosky/sandbox-csharp /bin/sh
